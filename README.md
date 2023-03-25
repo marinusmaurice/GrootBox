@@ -4,12 +4,12 @@ Minimal spreadsheet like program in (when totally stripped down) less than 100 l
 
 **Sample code**
 
-
-`using System;`
-`using System.IO;`
-`using System.Collections.Generic;`
 `
-namespace groot
+using System;  
+using System.IO;  
+using System.Collections.Generic;  
+
+namespace groot  
 {
     public class Program
     {
