@@ -1,5 +1,5 @@
 # GrootBox
-Minimal spreadsheet like program in (when totally stripped down) less than 100 lines
+Minimal spreadsheet like program with formula capabilities and functions on cells in (when totally stripped down) less than 100 lines
 
 
 **Sample code**
