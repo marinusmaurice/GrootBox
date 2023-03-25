@@ -5,14 +5,6 @@ Minimal spreadsheet like program in (when totally stripped down) less than 100 l
 **Sample code**
 
 `
-/*
-Author: Maurice Marinus
-Company: Symbolic Computing
-Position: Symbolic Architect
-Project: Groot - Minimal spreadsheet like program
-Description: To show how to create a minimal spreadsheet like architecture
-Date Started: 23 March 2023
-*/
 
 using System;
 using System.IO;
