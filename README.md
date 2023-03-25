@@ -39,12 +39,12 @@ namespace groot
 
             //Setting values AND functions (excel formula's) on the objects  
             a1.Value = () => 5;     
-            a2.Value = () => 7;  
-            a3.Value = () => a1.Value() + a2.Value();  
+            a2.Value = () => 7; //value
+            a3.Value = () => a1.Value() + a2.Value();  //formula
             Console.WriteLine(a3.Value());  
             a1.Value = () => 10;  
             Console.WriteLine(a3.Value());            
-            a4.Value = () => a3.Value() + a3.Value();  
+            a4.Value = () => a3.Value() + a3.Value();  //formula
             Console.WriteLine(a4.Value());   
             a2.Value = () => 1;  
             Console.WriteLine(a4.Value());  
