@@ -4,15 +4,7 @@ Minimal spreadsheet like program with formula capabilities and functions on cell
 
 **Sample code**
 
-`  
-using System;  
-using System.IO;  
-using System.Collections.Generic;  
-
-namespace groot  
-{  
-    public class Program  
-    {  
+ 
         public static void Main()  
         {  
             GrootDocument gd = new GrootDocument();  
@@ -57,7 +49,4 @@ namespace groot
 
             //Should be 22
             Console.WriteLine(gd.GrootSheets[gs.Key].GrootCells[p4].Value());  
-        }
-    }
-}
-`
+        } 
