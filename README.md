@@ -1,6 +1,7 @@
 # GrootBox
-Minimal spreadsheet like program with formula capabilities and functions on cells in (when totally stripped down) less than 100 lines
-
+Minimal spreadsheet like architecture with value, formula capabilities and functions on cells in (when totally stripped down) less than 100 lines
+Please note. Its not a complete solution, but represents the most core requirements of a spreadsheet. Obviously there be bugs.
+Its super easy to extend to include functionality like sorting, filtering etc.
 
 **Sample code**
 
