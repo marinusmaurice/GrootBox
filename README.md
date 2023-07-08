@@ -3,6 +3,8 @@ Minimal spreadsheet like architecture with value, formula capabilities and funct
 Please note. Its not a complete solution, but represents the most core requirements of a spreadsheet. Obviously there be bugs.
 Its super easy to extend to include functionality like sorting, filtering etc.
 
+Please note. This was all hand coded by me. No use was made of techs such as chatGPT
+
 **Sample code**
 
  
